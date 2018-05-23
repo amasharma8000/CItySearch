@@ -11,7 +11,7 @@ Create Database pramati
 Change the Mysql Credentials in the application.properties file according to your system
 default username and password is root 
 
-Step 2.
+Step 2.Go the the Project Root Directory and 
 Run Command
 
 mvn spring-boot:run
